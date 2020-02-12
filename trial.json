@@ -1,0 +1,439 @@
+[
+	{
+	  "review": [
+		{
+		  "reviewId": "5e43be63ac34fd0724564a8b",
+		  "authorName": "Mayo Rojas",
+		  "comments": [
+			{
+			  "userComment": {
+				"text": "voluptate aliquip qui cupidatat minim ullamco",
+				"lastModified": {
+				  "seconds": "1581497955",
+				  "nanos": "255000000"
+				},
+				"starRating": 4,
+				"reviewerLanguage": "en",
+				"device": "sint",
+				"androidOsVersion": 19,
+				"appVersionCode": 12345,
+				"appVersionName": "1.2.3",
+				"thumbsUpCount": 5,
+				"thumbsDownCount": 4,
+				"deviceMetadata": {
+				  "productName": "E5333 (Xperia™ C4 Dual)",
+				  "manufacturer": "Solgan",
+				  "deviceClass": "phone",
+				  "screenWidthPx": 1080,
+				  "screenHeightPx": 1920,
+				  "nativePlatform": "armeabi-v7a,armeabi,arm64-v8a",
+				  "screenDensityDpi": 480,
+				  "glEsVersion": 196608,
+				  "cpuModel": "MT6752",
+				  "cpuMake": "Hotcakes",
+				  "ramMb": 8192
+				}
+			  },
+			  "developerComment": {
+				"text": "adipisicing fugiat ipsum in incididunt",
+				"lastModified": {
+				  "seconds": "1581497955",
+				  "nanos": "262000000"
+				}
+			  }
+			}
+		  ]
+		},
+		{
+		  "reviewId": "5e43be63071147b7ecfcfc12",
+		  "authorName": "Vasquez Moon",
+		  "comments": [
+			{
+			  "userComment": {
+				"text": "quis pariatur magna ipsum pariatur consequat",
+				"lastModified": {
+				  "seconds": "1581497955",
+				  "nanos": "270000000"
+				},
+				"starRating": 2,
+				"reviewerLanguage": "en",
+				"device": "ex",
+				"androidOsVersion": 23,
+				"appVersionCode": 12345,
+				"appVersionName": "1.2.3",
+				"thumbsUpCount": 16,
+				"thumbsDownCount": 5,
+				"deviceMetadata": {
+				  "productName": "E5333 (Xperia™ C4 Dual)",
+				  "manufacturer": "Recrisys",
+				  "deviceClass": "phone",
+				  "screenWidthPx": 1080,
+				  "screenHeightPx": 1920,
+				  "nativePlatform": "armeabi-v7a,armeabi,arm64-v8a",
+				  "screenDensityDpi": 480,
+				  "glEsVersion": 196608,
+				  "cpuModel": "MT6752",
+				  "cpuMake": "Exodoc",
+				  "ramMb": 5120
+				}
+			  },
+			  "developerComment": {
+				"text": "dolore ad minim cillum ex",
+				"lastModified": {
+				  "seconds": "1581497955",
+				  "nanos": "271000000"
+				}
+			  }
+			}
+		  ]
+		},
+		{
+		  "reviewId": "5e43be63635c3924f5608cd6",
+		  "authorName": "Heidi Dale",
+		  "comments": [
+			{
+			  "userComment": {
+				"text": "incididunt velit id fugiat et esse",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 271000000
+				},
+				"starRating": 5,
+				"reviewerLanguage": "en",
+				"device": "et",
+				"androidOsVersion": 21,
+				"appVersionCode": 12345,
+				"appVersionName": "1.2.3",
+				"thumbsUpCount": 4,
+				"thumbsDownCount": 1,
+				"deviceMetadata": {
+				  "productName": "E5333 (Xperia™ C4 Dual)",
+				  "manufacturer": "Skinserve",
+				  "deviceClass": "phone",
+				  "screenWidthPx": 1080,
+				  "screenHeightPx": 1920,
+				  "nativePlatform": "armeabi-v7a,armeabi,arm64-v8a",
+				  "screenDensityDpi": 480,
+				  "glEsVersion": 196608,
+				  "cpuModel": "MT6752",
+				  "cpuMake": "Earthpure",
+				  "ramMb": 5120
+				}
+			  },
+			  "developerComment": {
+				"text": "laboris eu id commodo aliqua",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 271000000
+				}
+			  }
+			}
+		  ]
+		},
+		{
+		  "reviewId": "5e43be636ae1d141d788a7d5",
+		  "authorName": "Harriett Reynolds",
+		  "comments": [
+			{
+			  "userComment": {
+				"text": "nulla ut veniam consequat consequat duis",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 271000000
+				},
+				"starRating": 1,
+				"reviewerLanguage": "en",
+				"device": "proident",
+				"androidOsVersion": 20,
+				"appVersionCode": 12345,
+				"appVersionName": "1.2.3",
+				"thumbsUpCount": 1,
+				"thumbsDownCount": 3,
+				"deviceMetadata": {
+				  "productName": "E5333 (Xperia™ C4 Dual)",
+				  "manufacturer": "Terragen",
+				  "deviceClass": "phone",
+				  "screenWidthPx": 1080,
+				  "screenHeightPx": 1920,
+				  "nativePlatform": "armeabi-v7a,armeabi,arm64-v8a",
+				  "screenDensityDpi": 480,
+				  "glEsVersion": 196608,
+				  "cpuModel": "MT6752",
+				  "cpuMake": "Matrixity",
+				  "ramMb": 8192
+				}
+			  },
+			  "developerComment": {
+				"text": "dolor duis veniam ut ea",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 272000000
+				}
+			  }
+			}
+		  ]
+		},
+		{
+		  "reviewId": "5e43be637cea175e0f3fb0ad",
+		  "authorName": "Diaz Foley",
+		  "comments": [
+			{
+			  "userComment": {
+				"text": "adipisicing elit culpa pariatur exercitation veniam",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 272000000
+				},
+				"starRating": 5,
+				"reviewerLanguage": "en",
+				"device": "sunt",
+				"androidOsVersion": 23,
+				"appVersionCode": 12345,
+				"appVersionName": "1.2.3",
+				"thumbsUpCount": 8,
+				"thumbsDownCount": 6,
+				"deviceMetadata": {
+				  "productName": "E5333 (Xperia™ C4 Dual)",
+				  "manufacturer": "Opticall",
+				  "deviceClass": "phone",
+				  "screenWidthPx": 1080,
+				  "screenHeightPx": 1920,
+				  "nativePlatform": "armeabi-v7a,armeabi,arm64-v8a",
+				  "screenDensityDpi": 480,
+				  "glEsVersion": 196608,
+				  "cpuModel": "MT6752",
+				  "cpuMake": "Nikuda",
+				  "ramMb": 6144
+				}
+			  },
+			  "developerComment": {
+				"text": "ullamco ea magna incididunt fugiat",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 272000000
+				}
+			  }
+			}
+		  ]
+		},
+		{
+		  "reviewId": "5e43be633ebc7dc2980fe72b",
+		  "authorName": "Blankenship Jackson",
+		  "comments": [
+			{
+			  "userComment": {
+				"text": "enim ipsum in Lorem dolore consequat",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 272000000
+				},
+				"starRating": 3,
+				"reviewerLanguage": "en",
+				"device": "nulla",
+				"androidOsVersion": 17,
+				"appVersionCode": 12345,
+				"appVersionName": "1.2.3",
+				"thumbsUpCount": 0,
+				"thumbsDownCount": 7,
+				"deviceMetadata": {
+				  "productName": "E5333 (Xperia™ C4 Dual)",
+				  "manufacturer": "Gluid",
+				  "deviceClass": "phone",
+				  "screenWidthPx": 1080,
+				  "screenHeightPx": 1920,
+				  "nativePlatform": "armeabi-v7a,armeabi,arm64-v8a",
+				  "screenDensityDpi": 480,
+				  "glEsVersion": 196608,
+				  "cpuModel": "MT6752",
+				  "cpuMake": "Fuelton",
+				  "ramMb": 6144
+				}
+			  },
+			  "developerComment": {
+				"text": "esse amet velit eiusmod magna",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 272000000
+				}
+			  }
+			}
+		  ]
+		},
+		{
+		  "reviewId": "5e43be63d9dca92b2e5ee09c",
+		  "authorName": "Bartlett Stone",
+		  "comments": [
+			{
+			  "userComment": {
+				"text": "fugiat ut laboris qui ex est",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 272000000
+				},
+				"starRating": 1,
+				"reviewerLanguage": "en",
+				"device": "anim",
+				"androidOsVersion": 26,
+				"appVersionCode": 12345,
+				"appVersionName": "1.2.3",
+				"thumbsUpCount": 18,
+				"thumbsDownCount": 9,
+				"deviceMetadata": {
+				  "productName": "E5333 (Xperia™ C4 Dual)",
+				  "manufacturer": "Extro",
+				  "deviceClass": "phone",
+				  "screenWidthPx": 1080,
+				  "screenHeightPx": 1920,
+				  "nativePlatform": "armeabi-v7a,armeabi,arm64-v8a",
+				  "screenDensityDpi": 480,
+				  "glEsVersion": 196608,
+				  "cpuModel": "MT6752",
+				  "cpuMake": "Poochies",
+				  "ramMb": 2048
+				}
+			  },
+			  "developerComment": {
+				"text": "laborum eiusmod reprehenderit culpa labore",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 272000000
+				}
+			  }
+			}
+		  ]
+		},
+		{
+		  "reviewId": "5e43be63856829c4df644773",
+		  "authorName": "Cooke Hicks",
+		  "comments": [
+			{
+			  "userComment": {
+				"text": "occaecat elit do irure laboris deserunt",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 272000000
+				},
+				"starRating": 4,
+				"reviewerLanguage": "en",
+				"device": "cillum",
+				"androidOsVersion": 19,
+				"appVersionCode": 12345,
+				"appVersionName": "1.2.3",
+				"thumbsUpCount": 6,
+				"thumbsDownCount": 3,
+				"deviceMetadata": {
+				  "productName": "E5333 (Xperia™ C4 Dual)",
+				  "manufacturer": "Buzzworks",
+				  "deviceClass": "phone",
+				  "screenWidthPx": 1080,
+				  "screenHeightPx": 1920,
+				  "nativePlatform": "armeabi-v7a,armeabi,arm64-v8a",
+				  "screenDensityDpi": 480,
+				  "glEsVersion": 196608,
+				  "cpuModel": "MT6752",
+				  "cpuMake": "Soprano",
+				  "ramMb": 5120
+				}
+			  },
+			  "developerComment": {
+				"text": "irure occaecat pariatur nisi fugiat",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 273000000
+				}
+			  }
+			}
+		  ]
+		},
+		{
+		  "reviewId": "5e43be63048d4a8d176c5249",
+		  "authorName": "Richard George",
+		  "comments": [
+			{
+			  "userComment": {
+				"text": "elit non fugiat voluptate elit cupidatat",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 273000000
+				},
+				"starRating": 3,
+				"reviewerLanguage": "en",
+				"device": "officia",
+				"androidOsVersion": 24,
+				"appVersionCode": 12345,
+				"appVersionName": "1.2.3",
+				"thumbsUpCount": 4,
+				"thumbsDownCount": 10,
+				"deviceMetadata": {
+				  "productName": "E5333 (Xperia™ C4 Dual)",
+				  "manufacturer": "Accruex",
+				  "deviceClass": "phone",
+				  "screenWidthPx": 1080,
+				  "screenHeightPx": 1920,
+				  "nativePlatform": "armeabi-v7a,armeabi,arm64-v8a",
+				  "screenDensityDpi": 480,
+				  "glEsVersion": 196608,
+				  "cpuModel": "MT6752",
+				  "cpuMake": "Furnigeer",
+				  "ramMb": 8192
+				}
+			  },
+			  "developerComment": {
+				"text": "in aute esse proident est",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 273000000
+				}
+			  }
+			}
+		  ]
+		},
+		{
+		  "reviewId": "5e43be63f5fc485d97381fcb",
+		  "authorName": "Effie Hayes",
+		  "comments": [
+			{
+			  "userComment": {
+				"text": "ullamco aliquip nostrud esse anim consectetur",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 273000000
+				},
+				"starRating": 2,
+				"reviewerLanguage": "en",
+				"device": "incididunt",
+				"androidOsVersion": 17,
+				"appVersionCode": 12345,
+				"appVersionName": "1.2.3",
+				"thumbsUpCount": 11,
+				"thumbsDownCount": 6,
+				"deviceMetadata": {
+				  "productName": "E5333 (Xperia™ C4 Dual)",
+				  "manufacturer": "Buzzness",
+				  "deviceClass": "phone",
+				  "screenWidthPx": 1080,
+				  "screenHeightPx": 1920,
+				  "nativePlatform": "armeabi-v7a,armeabi,arm64-v8a",
+				  "screenDensityDpi": 480,
+				  "glEsVersion": 196608,
+				  "cpuModel": "MT6752",
+				  "cpuMake": "Kengen",
+				  "ramMb": 5120
+				}
+			  },
+			  "developerComment": {
+				"text": "dolor ad amet aliquip voluptate",
+				"lastModified": {
+				  "seconds": 1581497955,
+				  "nanos": 273000000
+				}
+			  }
+			}
+		  ]
+		}
+	  ],
+	  "tokenPagination": {
+		"nextPageToken": "5778071447"
+	  }
+	}
+  ]
